@@ -16,6 +16,6 @@ spec:
      spec:
        containers:
          - name: mycontainer
-           image: hariharvis/paytm
+           image: hariharvis/amazon
            ports:
              - containerPort: 80
