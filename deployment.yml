@@ -16,6 +16,6 @@ spec:
      spec:
        containers:
          - name: mycontainer
-           image: hariharvis/movie
+           image: hariharvis/bus
            ports:
              - containerPort: 80
